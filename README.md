@@ -49,9 +49,5 @@ Make sure you have the Flutter SDK installed. If not, check the [official instal
 Make sure to replace the placeholder API key in the source code with your own valid key from the weather API provider (e.g., OpenWeatherMap, WeatherAPI, etc.) before running the app.
 
 ## 📸 Screenshots
+<img width="1587" height="3072" alt="2" src="https://github.com/user-attachments/assets/4560d560-fee7-484d-ba4e-9147c7f349b6" />
 
-*(You can add screenshots of your app here later by replacing this text with image links)*
-
----
-
-Developed with ❤️ using Flutter.
